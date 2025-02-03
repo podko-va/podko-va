@@ -26,7 +26,8 @@
 ### 📌 Featured Projects
 🔹 **[Data Analytics in Python](https://github.com/podko-va/data_analytics)** – Exploratory Data Analysis using Pandas & Matplotlib  
 🔹 **[E-Commerce Order Optimization](https://github.com/your-repo)** – Optimized stock management for high-load systems  
-🔹 **[Web Dev Portfolio](https://github.com/podko-va/demo-team7)** – Personal website showcasing React & backend skills 
+🔹 **[Web Dev Portfolio](https://github.com/podko-va/demo-team7)** – Personal website showcasing React & backend skills
+
 🔹 **[SQL Advanced](https://github.com/podko-va/SQL_learning_ADV)** - SQL class for Redrover School
 
 ---
