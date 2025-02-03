@@ -32,7 +32,7 @@
 
 ### 📬 Connect With Me
 📧 **Email:** e.po.dkorytova@gmail.com 
-📂 **Portfolio:** [your-portfolio.com](https://onrender.podko-va.com)  
+📂 **Portfolio:** [onrender.podko-va.com](https://onrender.podko-va.com)  
 
 ---
 
