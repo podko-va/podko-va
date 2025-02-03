@@ -24,7 +24,7 @@
 ---
 
 ### 📌 Featured Projects
-🔹 **[Data Analytics in Python](https://github.com/your-repo)** – Exploratory Data Analysis using Pandas & Matplotlib  
+🔹 **[Data Analytics in Python]((https://github.com/podko-va/data_analytics)** – Exploratory Data Analysis using Pandas & Matplotlib  
 🔹 **[E-Commerce Order Optimization](https://github.com/your-repo)** – Optimized stock management for high-load systems  
 🔹 **[Web Dev Portfolio](https://github.com/your-repo)** – Personal website showcasing React & backend skills  
 
