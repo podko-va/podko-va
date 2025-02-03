@@ -31,9 +31,8 @@
 ---
 
 ### 📬 Connect With Me
-📧 **Email:** your.email@example.com  
-💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-📂 **Portfolio:** [your-portfolio.com](https://your-portfolio.com)  
+📧 **Email:** e.po.dkorytova@gmail.com 
+📂 **Portfolio:** [your-portfolio.com](https://onrender.podko-va.com)  
 
 ---
 
