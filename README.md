@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Ekaterina Podkorytova!
 
-<!--
-**podko-va/podko-va** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Aspiring Software Developer | Former TPM & Business Analyst | Data Analytics & Web Development Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎯 Transitioning from **Technical Project Management & Business Analysis** to **Software Development**.
+- 🔍 Passionate about **data analytics**, **web development**, and **high-load distributed systems**.
+- 💡 Experienced in launching **e-commerce & retail tech solutions**, optimizing **stock management**, and **automating CI/CD pipelines**.
+- 📚 Currently studying **Web Development at CTD** and improving **Python & SQL** skills.
+- 🎗️ **Mentor & Volunteer**: Teaching **SQL & Python** to beginners.
+
+---
+
+### 🛠️ Tech Skills
+- **Languages**: Python, SQL, JavaScript
+- **Data & Analysis**: Pandas, NumPy, Matplotlib, Seaborn
+- **Web Development**: HTML, CSS, React.js
+- **Databases**: PostgreSQL, SQLite
+- **DevOps & Tools**: Git, Docker, CI/CD
+- **Project Management**: Agile, Scrum, JIRA
+
+---
+
+### 📌 Featured Projects
+🔹 **[Data Analytics in Python](https://github.com/your-repo)** – Exploratory Data Analysis using Pandas & Matplotlib  
+🔹 **[E-Commerce Order Optimization](https://github.com/your-repo)** – Optimized stock management for high-load systems  
+🔹 **[Web Dev Portfolio](https://github.com/your-repo)** – Personal website showcasing React & backend skills  
+
+---
+
+### 📬 Connect With Me
+📧 **Email:** your.email@example.com  
+💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+📂 **Portfolio:** [your-portfolio.com](https://your-portfolio.com)  
+
+---
+
+⭐ **"Code, Analyze, Automate!"** 🚀  
