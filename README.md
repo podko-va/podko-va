@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ekaterina Podkorytova!
 
-🌟 **Aspiring Software Developer | Former TPM & Business Analyst | Data Analytics & Web Development Enthusiast**
+🌟 **Aspiring Software Developer | Former TPM & Business Analyst | AI Enthusiast**
 
 ---
 
