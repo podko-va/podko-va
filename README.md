@@ -8,15 +8,15 @@
 - 🎯 Transitioning from **Technical Project Management & Business Analysis** to **Software Development**.
 - 🔍 Passionate about **data analytics**, **web development**, and **high-load distributed systems**.
 - 💡 Experienced in launching **e-commerce & retail tech solutions**, optimizing **stock management**, and **automating CI/CD pipelines**.
-- 📚 Currently studying **Web Development at CTD** and improving **Python & SQL** skills.
+- 📚 Currently working as a **Software Engineer at CTD**.
 - 🎗️ **Mentor & Volunteer**: Teaching **SQL & Python** to beginners.
 
 ---
 
 ### 🛠️ Tech Skills
-- **Languages**: Python, SQL, JavaScript
+- **Languages**: Python, SQL, TypeScript, JavaScript
 - **Data & Analysis**: Pandas, NumPy, Matplotlib, Seaborn
-- **Web Development**: HTML, CSS, React.js
+- **Web Development**: Node, React.js
 - **Databases**: PostgreSQL, SQLite
 - **DevOps & Tools**: Git, Docker, CI/CD
 - **Project Management**: Agile, Scrum, JIRA
