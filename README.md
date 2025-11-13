@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ekaterina Podkorytova!
+# 👋 Hi, I'm Kate Podkorytova!
 
 🌟 **Aspiring Software Developer | Former TPM & Business Analyst | AI Enthusiast**
 
