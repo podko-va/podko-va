@@ -1,41 +1,51 @@
-# 👋 Hi, I'm Kate Podkorytova!
+# Hi, I'm Kate Podkorytova 👋
 
-🌟 **Aspiring Software Developer | Former TPM & Business Analyst | AI Enthusiast**
+**Software Engineer · AI Agents & RAG on Azure · Python / TypeScript**
 
----
-
-### 🚀 About Me
-- 🎯 Transitioning from **Technical Project Management & Business Analysis** to **Software Development**.
-- 🔍 Passionate about **data analytics**, **web development**, and **high-load distributed systems**.
-- 💡 Experienced in launching **e-commerce & retail tech solutions**, optimizing **stock management**, and **automating CI/CD pipelines**.
-- 📚 Currently working as a **Software Engineer at CTD**.
-- 🎗️ **Mentor & Volunteer**: Teaching **SQL & Python** to beginners.
+I build LLM applications that have to be right: agentic retrieval, RAG pipelines, and the observability that keeps them reliable in production.
 
 ---
 
-### 🛠️ Tech Skills
-- **Languages**: Python, SQL, TypeScript, JavaScript
-- **Data & Analysis**: Pandas, NumPy, Matplotlib, Seaborn
-- **Web Development**: Node, React.js
-- **Databases**: PostgreSQL, SQLite
-- **DevOps & Tools**: Git, Docker, CI/CD
-- **Project Management**: Agile, Scrum, JIRA
+### 🚀 What I do
+
+- Software Engineer at **Code the Dream**, building **PBAChat**, an AI chatbot that helps North Carolina residents find out which public benefits they can access.
+- Built the retrieval agent with **LangGraph** and MongoDB vector search, then migrated it to agentic retrieval on **Azure AI Search**, raising retrieval accuracy by 30% on an evaluation set of about 100 questions.
+- Trace every step of each agent run with **Langfuse** and score answers with online and offline **LLM-as-a-judge** evaluators.
+- Work daily with agentic coding tools: **Cursor** and **Claude Code**.
+- Taught **Python and SQL** to adult learners as a volunteer instructor and mentor.
 
 ---
 
-### 📌 Featured Projects
-🔹 **[Data Analytics in Python](https://github.com/podko-va/data_analytics)** – Exploratory Data Analysis using Pandas & Matplotlib  
-🔹 **[E-Commerce Order Optimization](https://github.com/your-repo)** – Optimized stock management for high-load systems  
-🔹 **[Web Dev Portfolio](https://github.com/podko-va/demo-team7)** – Personal website showcasing React & backend skills
+### 🛠️ Tech stack
 
-🔹 **[SQL Advanced](https://github.com/podko-va/SQL_learning_ADV)** - SQL class for Redrover School
-
----
-
-### 📬 Connect With Me
-📧 **Email:** e.po.dkorytova@gmail.com 
-📂 **Portfolio:** [onrender.podko-va.com](https://onrender.podko-va.com)  
+- **Languages:** Python (FastAPI, Pandas), TypeScript (Node.js, Next.js, React), SQL
+- **LLM & Agents:** Agentic retrieval, RAG, LangGraph, OpenAI and Anthropic APIs
+- **Vector Search:** Azure AI Search, MongoDB vector search
+- **Observability:** Langfuse, LangSmith, Azure Application Insights
+- **Cloud & Infrastructure:** Azure, AWS, Docker, Kubernetes, GitHub Actions
+- **Databases:** PostgreSQL, MongoDB, Redis
 
 ---
 
-⭐ **"Code, Analyze, Automate!"** 🚀  
+### 📌 Featured projects
+
+- **PBAChat** (private repository): AI benefits chatbot for NCDHHS. Python/FastAPI backend, React frontend, agentic retrieval on Azure AI Search, fully containerized with Docker.
+- **[SQL Advanced](https://github.com/podko-va/SQL_learning_ADV)**: course materials for the advanced SQL class I taught at Red Rover School.
+- **[Data Analytics in Python](https://github.com/podko-va/data_analytics)**: exploratory data analysis with Pandas and Matplotlib.
+- **[Team web app](https://github.com/podko-va/demo-team7)**: full-stack project with React and a Node.js backend.
+
+---
+
+### 🎓 Certifications
+
+- Microsoft Certified: Azure AI Engineer Associate (AI-102)
+- Microsoft Certified: Azure AI Fundamentals (AI-900)
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+
+---
+
+### 📬 Contact
+
+- **Email:** e.po.dkorytova@gmail.com
+- **Portfolio:** [onrender.podko-va.com](https://onrender.podko-va.com)
+- **LinkedIn:** [add your link]
