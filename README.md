@@ -30,6 +30,7 @@ I build LLM applications that have to be right: agentic retrieval, RAG pipelines
 ### 📌 Featured projects
 
 - **PBAChat** (private repository): AI benefits chatbot for NCDHHS. Python/FastAPI backend, React frontend, agentic retrieval on Azure AI Search, fully containerized with Docker.
+- **[Jul & Julie: AI Meal Planner](https://github.com/ctd-hackaton/front-end)** ([live demo](https://ctd-hackaton.web.app/)): 🏆 2nd place at the Halloween Hackathon 2025, built by a team in 3 days. Two AI assistants create and edit weekly meal plans through streaming chat, and the app generates shopping lists and nutrition charts. React, Firebase, GPT API, D3.js.
 - **[SQL Advanced](https://github.com/podko-va/SQL_learning_ADV)**: course materials for the advanced SQL class I taught at Red Rover School.
 - **[Data Analytics in Python](https://github.com/podko-va/data_analytics)**: exploratory data analysis with Pandas and Matplotlib.
 - **[Team web app](https://github.com/podko-va/demo-team7)**: full-stack project with React and a Node.js backend.
