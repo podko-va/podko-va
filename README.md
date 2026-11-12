@@ -47,6 +47,6 @@ I build LLM applications that have to be right: agentic retrieval, RAG pipelines
 
 ### 📬 Contact
 
-- **Email:** e.po.dkorytova@gmail.com
+- **Email:** epodkorytova@gmail.com
 - **Portfolio:** [onrender.podko-va.com](https://onrender.podko-va.com)
-- **LinkedIn:** [add your link]
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/kate-podkorytova/)
